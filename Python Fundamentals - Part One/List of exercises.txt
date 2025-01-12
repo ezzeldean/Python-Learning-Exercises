@@ -1,0 +1,59 @@
+These exercises helped me to enhance my understanding and apply what I learned in practice.
+
+1. Comments
+- Write a simple program that prints "Hello world!" with a comment explaining what the program does.
+
+2. Variables
+- Create two variables, one with your name and the other with your age, and print them with an explanatory sentence such as: "My name is [name] and my age is [age] years."
+
+3. Escape Sequences
+- Write a program that prints the following sentence using the appropriate escape sequences:
+```
+He said to me: "Hello! How are you?"
+```
+
+4. Strings
+- Create a variable with the text "I am learning Python" and print the first and last letters of the text.
+- Print the text from the second letter to the fifth letter.
+
+5. Strings Methods
+- Convert the text "I am learning Python" to uppercase.
+- Remove extra spaces from the text "I am learning Python".
+
+6. Strings Formatting
+- Use the old and new method of formatting texts to print the following sentence:
+```
+My name is [name] and my age is [age] years.
+```
+
+7. Numbers & Arithmetic Operators
+- Create a program that adds, subtracts, multiplies and divides two numbers and prints the results.
+
+8. Lists
+- Create a list containing the names of 5 of your friends, then print the second name in the list.
+- Add a new name to the list and remove the first name from it.
+
+9. Lists Methods
+- Sort the list of your friends' names alphabetically.
+- Reverse the order of the list.
+
+10. Tuples
+- Create a row containing the names of 3 of your family members, then try changing one of the elements (see what happens).
+
+11. Sets
+- Create two sets containing numbers, then print the union of the two sets and the difference between them.
+
+12. Dictionaries
+- Create a dictionary containing personal information such as name, age, and city, then print this information.
+- Add a new element to the dictionary such as "occupation" and update the value of age.
+
+13. Dictionary Methods
+- Use the `get` method to retrieve the value of an element from the dictionary, and specify a default value if the element does not exist.
+- Remove an item from the dictionary using `pop`.
+
+14. Comprehensive Training
+- Create a simple program to manage the To-Do List using lists. The program should be able to:
+- Add a new task.
+- View all tasks.
+- Delete a specific task.
+- Modify an existing task.
